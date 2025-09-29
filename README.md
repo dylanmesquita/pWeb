@@ -1,2 +1,2 @@
 # pWeb
-A small project for a discipline of Web Programming 
+A small project for the discipline of Web Programming 
